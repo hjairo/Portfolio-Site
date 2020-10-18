@@ -1,0 +1,73 @@
+{
+	"projects": [
+		{
+			"id": "0",
+			"project_name": "Random Quote Generator",
+			"description": "Displays a randomly selected quote each time the button is clicked or when the timer restarts",
+			"technologies": ["JavaScript","HTML", "CSS"],
+			"live_link": "https://hjairo.github.io/Random-Quote-Generator/",
+			"github_link": "https://github.com/hjairo/Random-Quote-Generator",
+			"image_urls": [
+				"/static/images/random-quote-generator-hp.png",
+				"/static/images/Random Quote Generator.png",
+				"/static/images/Random Quote 2.png",
+				"/static/images/Random Quote 3.png"
+			]
+		},
+		{
+			"id": "1",
+			"project_name": "List Pagination and Filtering",
+			"description": "Application that divides a long list into series of pages and filters names based on user input",
+			"technologies": ["JavaScript","HTML", "CSS"],
+			"live_link": "https://hjairo.github.io/Pagination/",
+			"github_link": "https://github.com/hjairo/Pagination",
+			"image_urls": [
+				"/static/images/pagination-and-filtering-hp.png",
+				"/static/images/Pagination and Filtering.png",
+				"/static/images/pag search.png"
+			]
+		},
+		{
+			"id": "2",
+			"project_name": "Interactive Form",
+			"description": "An interactive form that responds to a user's input information",
+			"technologies": ["JavaScript","HTML", "CSS"],
+			"live_link": "https://hjairo.github.io/Interactive-Form/",
+			"github_link": "https://github.com/hjairo/Interactive-Form",
+			"image_urls": [
+				"/static/images/interactive-form-hp.png",
+				"/static/images/Interactive Form.png",
+				"/static/images/form fillout.png",
+				"/static/images/form empty.png"
+			]
+		},
+		{
+			"id": "3",
+			"project_name": "OOP Phrase Hunter Game",
+			"description": "Application that displays Object Oriented Programming by having a user guess the phrase without running out of attempts",
+			"technologies": ["JavaScript","HTML", "CSS", "Object Oriented JavaScript"],
+			"live_link": "https://hjairo.github.io/OOP-Game-App/",
+			"github_link": "https://github.com/hjairo/OOP-Game-App",
+			"image_urls": [
+				"/static/images/phrase-hunter-hp.png",
+				"/static/images/Phrase Hunter.png",
+				"/static/images/Phrase Hunter Start.png",
+				"/static/images/Phrase Hunter Win.png",
+				"/static/images/Phrase Hunter Lose.png"
+			]
+		},
+		{
+			"id": "4",
+			"project_name": "Public API Requests",
+			"description": "A mock employee directory that retrieves employee data from a public API. Every time the page is refreshed a new request for data is sent/retrieved",
+			"technologies": ["JavaScript","HTML", "CSS", "JSON", "API Requests"],
+			"live_link": "https://hjairo.github.io/Public-API-Requests/",
+			"github_link": "https://github.com/hjairo/Public-API-Requests",
+			"image_urls": [
+				"/static/images/public-api-hp.png",
+				"/static/images/Public API.png",
+				"/static/images/API layout.png"
+			]
+		}
+	]
+}
