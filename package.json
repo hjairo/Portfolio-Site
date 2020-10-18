@@ -2,21 +2,16 @@
   "name": "portfolio-site",
   "version": "1.0.0",
   "description": "Showcase of current JS projects",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hjairo/Portfolio-Site.git"
   },
   "author": "Jairo Hernandez",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hjairo/Portfolio-Site/issues"
   },
-  "homepage": "https://github.com/hjairo/Portfolio-Site#readme",
   "dependencies": {
     "express": "^4.17.1",
     "pug": "^3.0.0"
