@@ -3,11 +3,12 @@ const express = require('express');
 const app = express();
 const indexRoutes = require("./routes/index");
 const port = process.env.PORT || 80;
+const path = require('path');
 
 /* Sets up the view engine to pug, uses the routes created in index.js, and serves the static files located in the public folder */
 app.set('view engine', 'pug');
 app.use('/', indexRoutes);
-app.use('/static', express.static('public'));
+app.use('/static', express.static(path.join(__dirname, 'public')));
 
 /* 404 Error Handler */
 app.use(`/:page`, (req, res, next) => {
