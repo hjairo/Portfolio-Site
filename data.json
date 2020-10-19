@@ -9,9 +9,9 @@
 			"github_link": "https://github.com/hjairo/Random-Quote-Generator",
 			"image_urls": [
 				"/static/images/random-quote-generator-hp.png",
-				"/static/images/Random Quote Generator.png",
-				"/static/images/Random Quote 2.png",
-				"/static/images/Random Quote 3.png"
+				"/static/images/RandomQuoteGenerator.png",
+				"/static/images/RandomQuote2.png",
+				"/static/images/RandomQuote3.png"
 			]
 		},
 		{
@@ -23,8 +23,8 @@
 			"github_link": "https://github.com/hjairo/Pagination",
 			"image_urls": [
 				"/static/images/pagination-and-filtering-hp.png",
-				"/static/images/Pagination and Filtering.png",
-				"/static/images/pag search.png"
+				"/static/images/PaginationAndFiltering.png",
+				"/static/images/pagSearch.png"
 			]
 		},
 		{
@@ -36,9 +36,9 @@
 			"github_link": "https://github.com/hjairo/Interactive-Form",
 			"image_urls": [
 				"/static/images/interactive-form-hp.png",
-				"/static/images/Interactive Form.png",
-				"/static/images/form fillout.png",
-				"/static/images/form empty.png"
+				"/static/images/InteractiveForm.png",
+				"/static/images/formFillout.png",
+				"/static/images/formEmpty.png"
 			]
 		},
 		{
@@ -50,10 +50,10 @@
 			"github_link": "https://github.com/hjairo/OOP-Game-App",
 			"image_urls": [
 				"/static/images/phrase-hunter-hp.png",
-				"/static/images/Phrase Hunter.png",
-				"/static/images/Phrase Hunter Start.png",
-				"/static/images/Phrase Hunter Win.png",
-				"/static/images/Phrase Hunter Lose.png"
+				"/static/images/PhraseHunter.png",
+				"/static/images/PhraseHunterStart.png",
+				"/static/images/PhraseHunterWin.png",
+				"/static/images/PhraseHunterLose.png"
 			]
 		},
 		{
@@ -65,8 +65,8 @@
 			"github_link": "https://github.com/hjairo/Public-API-Requests",
 			"image_urls": [
 				"/static/images/public-api-hp.png",
-				"/static/images/Public API.png",
-				"/static/images/API layout.png"
+				"/static/images/PublicAPI.png",
+				"/static/images/APILayout.png"
 			]
 		}
 	]
