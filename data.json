@@ -74,7 +74,7 @@
 			"project_name": "React Gallery Application",
 			"description": "A React application that fetches data from the flickr API and displays images according to user input.",
 			"technologies": ["React", "Node.js", "Express.js", "JavaScript","HTML", "CSS", "JSON", "API Requests"],
-			"live_link": "https://hjairo.github.io/Public-API-Requests/",
+			"live_link": "https://upbeat-gates-8be336.netlify.app",
 			"github_link": "https://github.com/hjairo/React-Gallery-App",
 			"image_urls": [
 				"/static/images/react-gallery-app-hp.png",
