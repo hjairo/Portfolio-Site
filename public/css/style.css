@@ -6,7 +6,18 @@
   --color-light: #f8efd4;
 }
 
+html,
 body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
   background-color: var(--color-light);
   font-family: 'Open Sans', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
