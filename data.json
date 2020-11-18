@@ -82,6 +82,23 @@
 				"/static/images/ReactAppNoResults.png",
 				"/static/images/ReactAppRouteError.png"
 			]
+		},
+		{
+			"id": "6",
+			"project_name": "SQL Library Manager",
+			"description": "Application that searches and manages a collection of books from a database.",
+			"technologies": ["Node.js", "Express.js", "JavaScript", "Pug", "SQLite", "Sequelize", "SQL ORM Sequelize", "HTML", "CSS"],
+			"live_link": "",
+			"github_link": "https://github.com/hjairo/SQL-Library-Manager",
+			"image_urls": [
+				"/static/images/sql-library-manager-hp.png",
+				"/static/images/SQLHomePage.png",
+				"/static/images/SQLSearch.png",
+				"/static/images/SQLNewBook.png",
+				"/static/images/SQLUpdateBook.png",
+				"/static/images/SQLUpdateError.png",
+				"/static/images/SQL404Error.png"
+			]
 		}
 	]
 }
