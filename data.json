@@ -99,6 +99,20 @@
 				"/static/images/SQLUpdateError.png",
 				"/static/images/SQL404Error.png"
 			]
+		},
+		{
+			"id": "7",
+			"project_name": "REST API",
+			"description": "A REST API application generated using Express. Provides administration to a mock school database containing information about users and courses.",
+			"technologies": ["Node.js", "Express.js", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
+			"live_link": "",
+			"github_link": "https://github.com/hjairo/REST-API",
+			"image_urls": [
+				"/static/images/rest-api-hp.png",
+				"/static/images/RESTAPICourses.png",
+				"/static/images/RESTAPIUser.png",
+				"/static/images/RESTAPIValidation.png"
+			]
 		}
 	]
 }
