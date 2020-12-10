@@ -113,6 +113,22 @@
 				"/static/images/RESTAPIUser.png",
 				"/static/images/RESTAPIValidation.png"
 			]
+		},
+		{
+			"id": "8",
+			"project_name": "Full Stack React/REST API Course App",
+			"description": "An app that allows users to view & manage a school database containing courses/users. Authorized users can create, update, or delete courses pertaining to them. Uses the REST API from the previous app. Client: React App generated using Create React App. React Hooks control state.",
+			"technologies": ["Node.js", "Express.js", "REST API", "React", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
+			"live_link": "",
+			"github_link": "https://github.com/hjairo/React-and-REST-API-App",
+			"image_urls": [
+				"/static/images/full-stack-app-hp.png",
+				"/static/images/fsaCourseDetails.png",
+				"/static/images/fsaCourseUpdate.png",
+				"/static/images/fsaNewCourse.png",
+				"/static/images/fsaSignIn.png",
+				"/static/images/fsaSignUp.png"
+			]
 		}
 	]
 }
