@@ -1,7 +1,7 @@
 {
 	"projects": [
 		{
-			"id": "8",
+			"id": "0",
 			"project_name": "Full Stack React/REST API Course App",
 			"description": "An app that allows users to view & manage a school database containing courses/users. Authorized users can create, update, or delete courses pertaining to them. Uses the REST API from the previous app. Client: React App generated using Create React App. React Hooks control state.",
 			"technologies": ["Node.js", "Express.js", "REST API", "React", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"id": "7",
+			"id": "1",
 			"project_name": "REST API",
 			"description": "A REST API application generated using Express. Provides administration to a mock school database containing information about users and courses.",
 			"technologies": ["Node.js", "Express.js", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"id": "6",
+			"id": "2",
 			"project_name": "SQL Library Manager",
 			"description": "Application that searches and manages a collection of books from a database.",
 			"technologies": ["Node.js", "Express.js", "JavaScript", "Pug", "SQLite", "Sequelize", "SQL ORM Sequelize", "HTML", "CSS"],
@@ -48,7 +48,7 @@
 			]
 		},
 		{
-			"id": "5",
+			"id": "3",
 			"project_name": "React Gallery Application",
 			"description": "A React application that fetches data from the flickr API and displays images according to user input.",
 			"technologies": ["React", "Node.js", "Express.js", "JavaScript","HTML", "CSS", "JSON", "API Requests"],
@@ -75,7 +75,7 @@
 			]
 		},
 		{
-			"id": "3",
+			"id": "5",
 			"project_name": "OOP Phrase Hunter Game",
 			"description": "Application that displays Object Oriented Programming by having a user guess the phrase without running out of attempts",
 			"technologies": ["JavaScript","HTML", "CSS", "Object Oriented JavaScript"],
@@ -90,7 +90,7 @@
 			]
 		},
 		{
-			"id": "2",
+			"id": "6",
 			"project_name": "Interactive Form",
 			"description": "An interactive form that responds to a user's input information",
 			"technologies": ["JavaScript","HTML", "CSS"],
@@ -104,7 +104,7 @@
 			]
 		},
 		{
-			"id": "1",
+			"id": "7",
 			"project_name": "List Pagination and Filtering",
 			"description": "Application that divides a long list into series of pages and filters names based on user input",
 			"technologies": ["JavaScript","HTML", "CSS"],
@@ -117,7 +117,7 @@
 			]
 		},
 		{
-			"id": "0",
+			"id": "8",
 			"project_name": "Random Quote Generator",
 			"description": "Displays a randomly selected quote each time the button is clicked or when the timer restarts",
 			"technologies": ["JavaScript","HTML", "CSS"],
