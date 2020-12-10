@@ -1,86 +1,33 @@
 {
 	"projects": [
 		{
-			"id": "0",
-			"project_name": "Random Quote Generator",
-			"description": "Displays a randomly selected quote each time the button is clicked or when the timer restarts",
-			"technologies": ["JavaScript","HTML", "CSS"],
-			"live_link": "https://hjairo.github.io/Random-Quote-Generator/",
-			"github_link": "https://github.com/hjairo/Random-Quote-Generator",
+			"id": "8",
+			"project_name": "Full Stack React/REST API Course App",
+			"description": "An app that allows users to view & manage a school database containing courses/users. Authorized users can create, update, or delete courses pertaining to them. Uses the REST API from the previous app. Client: React App generated using Create React App. React Hooks control state.",
+			"technologies": ["Node.js", "Express.js", "REST API", "React", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
+			"live_link": "",
+			"github_link": "https://github.com/hjairo/React-and-REST-API-App",
 			"image_urls": [
-				"/static/images/random-quote-generator-hp.png",
-				"/static/images/RandomQuoteGenerator.png",
-				"/static/images/RandomQuote2.png",
-				"/static/images/RandomQuote3.png"
+				"/static/images/full-stack-app-hp.png",
+				"/static/images/fsaCourseDetails.png",
+				"/static/images/fsaCourseUpdate.png",
+				"/static/images/fsaNewCourse.png",
+				"/static/images/fsaSignIn.png",
+				"/static/images/fsaSignUp.png"
 			]
 		},
 		{
-			"id": "1",
-			"project_name": "List Pagination and Filtering",
-			"description": "Application that divides a long list into series of pages and filters names based on user input",
-			"technologies": ["JavaScript","HTML", "CSS"],
-			"live_link": "https://hjairo.github.io/Pagination/",
-			"github_link": "https://github.com/hjairo/Pagination",
+			"id": "7",
+			"project_name": "REST API",
+			"description": "A REST API application generated using Express. Provides administration to a mock school database containing information about users and courses.",
+			"technologies": ["Node.js", "Express.js", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
+			"live_link": "",
+			"github_link": "https://github.com/hjairo/REST-API",
 			"image_urls": [
-				"/static/images/pagination-and-filtering-hp.png",
-				"/static/images/PaginationAndFiltering.png",
-				"/static/images/pagSearch.png"
-			]
-		},
-		{
-			"id": "2",
-			"project_name": "Interactive Form",
-			"description": "An interactive form that responds to a user's input information",
-			"technologies": ["JavaScript","HTML", "CSS"],
-			"live_link": "https://hjairo.github.io/Interactive-Form/",
-			"github_link": "https://github.com/hjairo/Interactive-Form",
-			"image_urls": [
-				"/static/images/interactive-form-hp.png",
-				"/static/images/InteractiveForm.png",
-				"/static/images/formFillout.png",
-				"/static/images/formEmpty.png"
-			]
-		},
-		{
-			"id": "3",
-			"project_name": "OOP Phrase Hunter Game",
-			"description": "Application that displays Object Oriented Programming by having a user guess the phrase without running out of attempts",
-			"technologies": ["JavaScript","HTML", "CSS", "Object Oriented JavaScript"],
-			"live_link": "https://hjairo.github.io/OOP-Game-App/",
-			"github_link": "https://github.com/hjairo/OOP-Game-App",
-			"image_urls": [
-				"/static/images/phrase-hunter-hp.png",
-				"/static/images/PhraseHunter.png",
-				"/static/images/PhraseHunterStart.png",
-				"/static/images/PhraseHunterWin.png",
-				"/static/images/PhraseHunterLose.png"
-			]
-		},
-		{
-			"id": "4",
-			"project_name": "Public API Requests",
-			"description": "A mock employee directory that retrieves employee data from a public API. Every time the page is refreshed a new request for data is sent/retrieved",
-			"technologies": ["JavaScript","HTML", "CSS", "JSON", "API Requests"],
-			"live_link": "https://hjairo.github.io/Public-API-Requests/",
-			"github_link": "https://github.com/hjairo/Public-API-Requests",
-			"image_urls": [
-				"/static/images/public-api-hp.png",
-				"/static/images/PublicAPI.png",
-				"/static/images/APILayout.png"
-			]
-		},
-		{
-			"id": "5",
-			"project_name": "React Gallery Application",
-			"description": "A React application that fetches data from the flickr API and displays images according to user input.",
-			"technologies": ["React", "Node.js", "Express.js", "JavaScript","HTML", "CSS", "JSON", "API Requests"],
-			"live_link": "https://upbeat-gates-8be336.netlify.app",
-			"github_link": "https://github.com/hjairo/React-Gallery-App",
-			"image_urls": [
-				"/static/images/react-gallery-app-hp.png",
-				"/static/images/ReactAppLayout.png",
-				"/static/images/ReactAppNoResults.png",
-				"/static/images/ReactAppRouteError.png"
+				"/static/images/rest-api-hp.png",
+				"/static/images/RESTAPICourses.png",
+				"/static/images/RESTAPIUser.png",
+				"/static/images/RESTAPIValidation.png"
 			]
 		},
 		{
@@ -101,33 +48,86 @@
 			]
 		},
 		{
-			"id": "7",
-			"project_name": "REST API",
-			"description": "A REST API application generated using Express. Provides administration to a mock school database containing information about users and courses.",
-			"technologies": ["Node.js", "Express.js", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
-			"live_link": "",
-			"github_link": "https://github.com/hjairo/REST-API",
+			"id": "5",
+			"project_name": "React Gallery Application",
+			"description": "A React application that fetches data from the flickr API and displays images according to user input.",
+			"technologies": ["React", "Node.js", "Express.js", "JavaScript","HTML", "CSS", "JSON", "API Requests"],
+			"live_link": "https://upbeat-gates-8be336.netlify.app",
+			"github_link": "https://github.com/hjairo/React-Gallery-App",
 			"image_urls": [
-				"/static/images/rest-api-hp.png",
-				"/static/images/RESTAPICourses.png",
-				"/static/images/RESTAPIUser.png",
-				"/static/images/RESTAPIValidation.png"
+				"/static/images/react-gallery-app-hp.png",
+				"/static/images/ReactAppLayout.png",
+				"/static/images/ReactAppNoResults.png",
+				"/static/images/ReactAppRouteError.png"
 			]
 		},
 		{
-			"id": "8",
-			"project_name": "Full Stack React/REST API Course App",
-			"description": "An app that allows users to view & manage a school database containing courses/users. Authorized users can create, update, or delete courses pertaining to them. Uses the REST API from the previous app. Client: React App generated using Create React App. React Hooks control state.",
-			"technologies": ["Node.js", "Express.js", "REST API", "React", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
-			"live_link": "",
-			"github_link": "https://github.com/hjairo/React-and-REST-API-App",
+			"id": "4",
+			"project_name": "Public API Requests",
+			"description": "A mock employee directory that retrieves employee data from a public API. Every time the page is refreshed a new request for data is sent/retrieved",
+			"technologies": ["JavaScript","HTML", "CSS", "JSON", "API Requests"],
+			"live_link": "https://hjairo.github.io/Public-API-Requests/",
+			"github_link": "https://github.com/hjairo/Public-API-Requests",
 			"image_urls": [
-				"/static/images/full-stack-app-hp.png",
-				"/static/images/fsaCourseDetails.png",
-				"/static/images/fsaCourseUpdate.png",
-				"/static/images/fsaNewCourse.png",
-				"/static/images/fsaSignIn.png",
-				"/static/images/fsaSignUp.png"
+				"/static/images/public-api-hp.png",
+				"/static/images/PublicAPI.png",
+				"/static/images/APILayout.png"
+			]
+		},
+		{
+			"id": "3",
+			"project_name": "OOP Phrase Hunter Game",
+			"description": "Application that displays Object Oriented Programming by having a user guess the phrase without running out of attempts",
+			"technologies": ["JavaScript","HTML", "CSS", "Object Oriented JavaScript"],
+			"live_link": "https://hjairo.github.io/OOP-Game-App/",
+			"github_link": "https://github.com/hjairo/OOP-Game-App",
+			"image_urls": [
+				"/static/images/phrase-hunter-hp.png",
+				"/static/images/PhraseHunter.png",
+				"/static/images/PhraseHunterStart.png",
+				"/static/images/PhraseHunterWin.png",
+				"/static/images/PhraseHunterLose.png"
+			]
+		},
+		{
+			"id": "2",
+			"project_name": "Interactive Form",
+			"description": "An interactive form that responds to a user's input information",
+			"technologies": ["JavaScript","HTML", "CSS"],
+			"live_link": "https://hjairo.github.io/Interactive-Form/",
+			"github_link": "https://github.com/hjairo/Interactive-Form",
+			"image_urls": [
+				"/static/images/interactive-form-hp.png",
+				"/static/images/InteractiveForm.png",
+				"/static/images/formFillout.png",
+				"/static/images/formEmpty.png"
+			]
+		},
+		{
+			"id": "1",
+			"project_name": "List Pagination and Filtering",
+			"description": "Application that divides a long list into series of pages and filters names based on user input",
+			"technologies": ["JavaScript","HTML", "CSS"],
+			"live_link": "https://hjairo.github.io/Pagination/",
+			"github_link": "https://github.com/hjairo/Pagination",
+			"image_urls": [
+				"/static/images/pagination-and-filtering-hp.png",
+				"/static/images/PaginationAndFiltering.png",
+				"/static/images/pagSearch.png"
+			]
+		},
+		{
+			"id": "0",
+			"project_name": "Random Quote Generator",
+			"description": "Displays a randomly selected quote each time the button is clicked or when the timer restarts",
+			"technologies": ["JavaScript","HTML", "CSS"],
+			"live_link": "https://hjairo.github.io/Random-Quote-Generator/",
+			"github_link": "https://github.com/hjairo/Random-Quote-Generator",
+			"image_urls": [
+				"/static/images/random-quote-generator-hp.png",
+				"/static/images/RandomQuoteGenerator.png",
+				"/static/images/RandomQuote2.png",
+				"/static/images/RandomQuote3.png"
 			]
 		}
 	]
