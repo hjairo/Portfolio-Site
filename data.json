@@ -3,7 +3,7 @@
 		{
 			"id": "0",
 			"project_name": "Full Stack React/REST API Course App",
-			"description": "An app that allows users to view & manage a school database containing courses/users. Authorized users can create, update, or delete courses pertaining to them. Uses the REST API from the previous app. Client: React App generated using Create React App. React Hooks control state.",
+			"description": "An app that allows users to view & manage a school database containing courses/users. Authorized users can create, update, or delete courses pertaining to them. Uses the REST API from the previous app. Client: React App generated using Create React App. React Hooks control state. P.S.: live demo in progress!",
 			"technologies": ["Node.js", "Express.js", "REST API", "React", "JavaScript", "SQLite", "Sequelize", "Sequelize CLI"],
 			"live_link": "",
 			"github_link": "https://github.com/hjairo/React-and-REST-API-App",
